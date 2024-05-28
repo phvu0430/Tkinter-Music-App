@@ -8,7 +8,7 @@
     <div class="container">
         <h1>Play Audio App Written In Python</h1>
         <h3>Description</h3>
-        <p>An audio app allows you to listen to mp3 files, manange your playlists, songs and so on.</p>
+        <p>An audio app allows you to listen to mp3 files, manage your playlists, songs and so on.</p>
         <h3>Installation Steps</h2>
         <ul>
             <li>
